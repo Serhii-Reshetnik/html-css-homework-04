@@ -526,7 +526,17 @@ color: #757575;
 }
 .icon {
     fill: #AFB1B8 ;
+    
 }
 .icon:hover {
     fill: #2196F3;
+}
+.icon-soc{
+    fill: #AFB1B8;
+}
+.icon-soc:hover{
+    fill: #ffffff;
+}
+.icon-socc{
+    fill: #FFFFFF;
 }
